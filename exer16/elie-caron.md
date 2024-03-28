@@ -1,4 +1,4 @@
-# Revue de code TP01 Élie Caron
+# Revue de code TP01 Élie Caron.
 
 Le projet n'affiche rien sur la page web, à part du header indiquant le nom du lecteur.
 
